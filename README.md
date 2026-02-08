@@ -1,2 +1,2 @@
-# AConsole Help
-Documentation for the PenguinMod project AConsole!
+# AConsole
+Documentation for the PenguinMod project AConsole! (and more)
