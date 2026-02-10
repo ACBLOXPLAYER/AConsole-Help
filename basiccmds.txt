@@ -1,4 +1,4 @@
-This is a guide for the @BasicCMDS package that is always on the console.
+# @BasicCMDS Guide
 
 COMMANDS:
 help - If you are reading this, you probably ran this command already.
@@ -6,3 +6,4 @@ print {string} - Outputs {string}.
 openpackage {package} - Opens the package {package}. The @ at the beginning is required. Can be ran even if you're not in the @BasicCMDS package. Caps sensitive.
 calc [val1] {op} [val2] - Calculates the expression. {op} choices: +, -, *, /, >, <
 packagelist - Shows you the package list. Goes away once you run another command.
+
